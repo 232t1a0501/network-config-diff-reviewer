@@ -1,0 +1,35 @@
+! ==========================================
+! Router1 Configuration - VERSION: NEW (post-change)
+! ==========================================
+hostname Router1
+!
+interface GigabitEthernet0/0
+ description LAN-Uplink
+ ip address 10.0.1.1 255.255.255.0
+ no shutdown
+!
+interface GigabitEthernet0/1
+ description WAN-Link-to-ISP
+ ip address 203.0.113.2 255.255.255.252
+ no shutdown
+!
+ip access-list extended ACL_IN
+ permit tcp 10.0.1.0 0.0.0.255 any eq 443
+ permit tcp 10.0.1.0 0.0.0.255 any eq 80
+ permit udp 10.0.1.0 0.0.0.255 any eq 53
+ permit ip any any
+ deny ip any any log
+!
+ip route 192.168.10.0 255.255.255.0 10.0.1.254
+ip route 172.16.0.0 255.255.0.0 10.0.1.254
+ip route 0.0.0.0 0.0.0.0 203.0.113.1
+!
+router bgp 65001
+ bgp log-neighbor-changes
+ neighbor 203.0.113.1 remote-as 65009
+ neighbor 203.0.113.1 description PEER-ISP-B-BACKUP
+ neighbor 203.0.113.1 password CiscoPass123
+!
+snmp-server community public RW
+!
+end

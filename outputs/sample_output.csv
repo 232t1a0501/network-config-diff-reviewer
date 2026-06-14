@@ -1,0 +1,9 @@
+risk_type,change,config_line,detail
+ACL Widened,added,permit ip any any,A broad 'permit ip any any' rule was added to an ACL.
+Route Added,added,ip route 172.16.0.0 255.255.0.0 10.0.1.254,A new static route was added.
+Peer Change,removed,neighbor 203.0.113.1 remote-as 65002,A BGP neighbor's remote-as (peer AS number) was changed - this can change trust/routing relationships.
+Peer Change,removed,neighbor 203.0.113.1 description PEER-ISP-A,A BGP neighbor's description was changed.
+Peer Change,added,neighbor 203.0.113.1 remote-as 65009,A BGP neighbor's remote-as (peer AS number) was changed - this can change trust/routing relationships.
+Peer Change,added,neighbor 203.0.113.1 description PEER-ISP-B-BACKUP,A BGP neighbor's description was changed.
+SNMP Change,removed,snmp-server community public RO,SNMP community configuration was changed.
+SNMP Risk,added,snmp-server community public RW,SNMP community was set to RW (read-write) - this is a significant security risk.
