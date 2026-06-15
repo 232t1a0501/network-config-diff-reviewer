@@ -163,5 +163,22 @@ Then open the URL Streamlit prints (usually `http://localhost:8501`).
 ---
 
 ## 11. Team
+11. Team
 
-> _Add team name and member details here._
+Team Name
+
+Team 6
+
+Team Members
+
+1|   A Ishwarya
+2|   BCP Radhika
+3|   D Harshitha
+4|   E Geethanjali
+
+Resumes
+
+- A Ishwarya Resume: "View Resume" (./A_Ishwarya_Resume.pdf)
+- BCP Radhika Resume: "View Resume" (./BCP_Radhika_Resume.pdf)
+- D Harshitha Resume: "View Resume" (./D_Harshitha_Resume.pdf)
+- E Geethanjali Resume: "View Resume" (./E_Geethanjali_Resume.pdf)
