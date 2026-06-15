@@ -14,8 +14,8 @@
 
 ## Resumes
 
-- A Ishwarya Resume: [View Resume](./A_Ishwarya_Resume.pdf)
-- BCP Radhika Resume: [View Resume](./BCP_Radhika_Resume.pdf)
-- D Harshitha Resume: [View Resume](./D_Harshitha_Resume.pdf)
-- E Geethanjali Resume: [View Resume](./E_Geethanjali_Resume.pdf)
+- A Ishwarya Resume: [View Resume](./Team%20resumes/Addanki_Ishwarya_Resume-3.pdf)
+- BCP Radhika Resume: [View Resume](./Team%20resumes/RADHIKA.resume.pdf)
+- D Harshitha Resume: [View Resume](./Team%20resumes/Harshitha%20resume.pdf)
+- E Geethanjali Resume: [View Resume](./Team%20resumes/Geethajali_Ediga_Resume.pdf)
 
