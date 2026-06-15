@@ -158,10 +158,22 @@ Then open the URL Streamlit prints (usually `http://localhost:8501`).
 
 ## 10. Demo Video
 
-> _Add your demo video link here before submission._
+- 🎥 **Watch the Demo Video:** [Loom Video - Network Configuration Difference Reviewer with AI](https://www.loom.com/share/9af403bdb6e64d0992ae23556a04d1bb)
+- 📝 **Full Transcript and Chapters:** Available in [demo_video/README.md](file:///c:/Users/DELL/Downloads/network-config-diff-reviewer%20(2)/network-config-diff-reviewer/demo_video/README.md)
 
 ---
 
 ## 11. Team
 
-> _Add team name and member details here._
+### Team Name
+**Team 6**
+
+### Team Members
+
+| S.No | Name |
+| :--- | :--- |
+| 1 | A Ishwarya |
+| 2 | BCP Radhika |
+| 3 | D Harshitha |
+| 4 | E Geethanjali |
+
