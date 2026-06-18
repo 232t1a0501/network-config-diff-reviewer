@@ -187,3 +187,5 @@ Then open the URL Streamlit prints (usually `http://localhost:8501`).
 - BCP Radhika Resume: [View Resume](./Team%20resumes/RADHIKA.resume.pdf)
 - D Harshitha Resume: [View Resume](./Team%20resumes/Harshitha%20resume.pdf)
 - E Geethanjali Resume: [View Resume](./Team%20resumes/Geethajali_Ediga_Resume.pdf)
+### PPT
+https://docs.google.com/presentation/d/12y3QN00w0meYWh6F8F90l1Xxx7Iuwq5X/edit?usp=drivesdk&ouid=115090261101482200608&rtpof=true&sd=true
